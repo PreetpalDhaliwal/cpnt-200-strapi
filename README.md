@@ -8,9 +8,12 @@
 
 ## SITEMAP
 
-## ![Figma](file:///Users/preetpal/Downloads/Sitemap%20(1).pdf)
+[Sitemap.pdf](https://github.com/PreetpalDhaliwal/cpnt-200-strapi/files/10009019/Sitemap.2.pdf)
 
-## Component
+
+
+## Component[Uploading Sitemap (2).pdf…]()
+
 
 
 ## - Start of Sale - End of Sale
