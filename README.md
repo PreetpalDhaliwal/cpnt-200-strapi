@@ -8,7 +8,7 @@
 
 ## SITEMAP
 
-## ![Figma](https://www.figma.com/file/yosRRYvmJhE8WRp1UxBbo3/Sitemap?node-id=0%3A1&t=jfoWUHRn73qOuQWc-1)
+## ![Figma](file:///Users/preetpal/Downloads/Sitemap%20(1).pdf)
 
 ## Component
 
